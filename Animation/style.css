@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: green;
+    border: 3px solid green;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    background-color: aqua;
+    border: 2px solid orange;
+    /* animation-name: alok;
+    animation-duration: 5s;
+    animation-iteration-count: 4;
+    animation-timing-function: ease-in;
+    animation-delay: 1s; */
+}
+@keyframes alok {
+    from{
+        width: 150px;
+    }
+    to{
+        width: 500px;
+    }
+    
+}

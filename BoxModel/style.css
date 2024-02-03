@@ -1,0 +1,16 @@
+.box{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 25px;
+}
+#Aparna{
+    background-color: orange;
+}
+#Ayush{
+    background-color: white;
+}
+#Alok{
+    background-color: green;
+}
